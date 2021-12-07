@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+Python specialist, beginning a career in data science; reach out for help, collabaration or advice 😀 🐍 !--
 **Ward-cloud/Ward-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
